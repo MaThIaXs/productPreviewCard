@@ -33,8 +33,8 @@ mobile<br>
 
 ### Links
 
-- Solution URL: [solution]()
-- Live Site URL: [live site]()
+- Solution URL: [solution](https://www.frontendmentor.io/solutions/responsive-product-preview-card-using-tailwind-css-r6u4zr4iEH)
+- Live Site URL: [live site](https://mathiaxs.github.io/productPreviewCard/)
 
 ## My process
 
